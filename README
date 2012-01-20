@@ -1,0 +1,4 @@
+author: Michal Dziemianko
+project: Object Based Saliency
+
+This code implements object based saliency - a first step towards computational model based on cognitive relevance hypothesis of prof. John Henderson.
